@@ -1,7 +1,8 @@
 GUIA DE INSTALACION DEL FACTURADOR:
 
 PASO 1: Para comenzar la instalacion debemos instalar LARAGON
-https://user-images.githubusercontent.com/141371960/273320599-4539c00a-fb56-4ae2-90b3-c4e2f31d707e.png
+![image](https://github.com/CodeNinja18/Instalacion-facturador/assets/131321652/8a319bc9-3453-4034-9691-70489772dbaf)
+
 PASO 2: ahora comenzaremos con la configuracion y escogeremos PHP tambien añadiremos las extensiones
 
 PASO 3: Ahora debemos ingresar a la terminal desde LARAGON y clonar nuestro repositorio
